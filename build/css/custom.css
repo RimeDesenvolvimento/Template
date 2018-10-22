@@ -1,18 +1,18 @@
-div.corpoCartao{
-	width : 90%;
+#corpoCartao{
+	width: 90%;
 }
-div.flag-wrapper{
-	position : 	relative;
-	width : 	60%;
-	top : 		8px; 
-	right : 	-15%;
-	left :		30px
+#flag-wrapper{
+	position: 	relative;
+	width: 	60%;
+	top: 		8px; 
+	right: 	-15%;
+	left:		30px;
 }
-img.imgLogo{
-	max-width : 100%;
+#imgLogo{
+	max-width: 100%;
 	height: 	200px;
 }
-button.btnAcessar{
-	margin-top : 85px;
-	width :		 100%;
-}ß
+#btnAcessar{
+	margin-top: 85px;
+	width:		 100%;
+}
